@@ -2,10 +2,16 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link href="webjars/bootstrap/4.3.1/css/bootstrap.min.css"
+        rel="stylesheet">
         <meta charset="utf-8"/>
-        <title>Home</title>
+        <title>Lista de Sedes</title>
     </head>
     <body>
-        <h1>Hello World</h1>
+        
+
+        
+        <script src="webjars/jquery/3.4.0/jquery.min.js"></script>
+        <script src="webjars/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     </body>
 </html>
